@@ -1,0 +1,34 @@
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01D1F1A9.57A4B8C0"
+
+------=_NextPart_000_0000_01D1F1A9.57A4B8C0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Sample MHTML</title>
+</head>
+<body>
+<h1>Hello, World!</h1>
+<p>This is a sample MHTML file.</p>
+<p>Here is an image:</p>
+<img src="cid:image1">
+</body>
+</html>
+
+------=_NextPart_000_0000_01D1F1A9.57A4B8C0
+Content-Type: image/png;
+	name="image1.png"
+Content-Transfer-Encoding: base64
+Content-ID: <image1>
+
+iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO
+9TXL0Y4OHwAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0000_01D1F1A9.57A4B8C0--
